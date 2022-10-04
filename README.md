@@ -1,4 +1,4 @@
-# Android Project 5 - *Name of App Here*
+# Android Project 5 - *Nia Bitfit*
 
 Submitted by: **Nia Anderson**
 
@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/0f4We5J)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/0f4We5J
 
 
 GIF created with EzGif
