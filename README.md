@@ -2,7 +2,7 @@
 
 Submitted by: **Nia Anderson**
 
-**Nia BitFit** is a health metrics app that allows users to track ... [TODO] 
+**Nia BitFit** is a health metrics app that allows users to track their daily sleep habits. 
 
 Time spent: **10** hours spent in total
 
@@ -11,7 +11,7 @@ Time spent: **10** hours spent in total
 The following **required** functionality is completed:
 
 - [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): Calories
+  - Chosen metric(s): Sleep
 - [x] **There is a "create entry" UI that prompts users to make their daily entry**
 - [x] **New entries are saved in a database and then updated in the RecyclerView**
 - [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
@@ -44,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Anderson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
